@@ -12,3 +12,5 @@
 - **Optimizer:** SGD (lr=0.001)
 - **Batch size:** 64
 - **Epochs:** 100
+ ---
+  Test loss: 0.50
