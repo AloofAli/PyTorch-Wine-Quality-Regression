@@ -36,7 +36,7 @@ class wineDataset(Dataset):
         return len(self.X)
 
     def __getitem__(self, i):
-        return self.X[i], self.y[i]
+        return self.X[i], self.Y[i]
 
 
 dataset = wineDataset(Xtrain, Ytrain)
