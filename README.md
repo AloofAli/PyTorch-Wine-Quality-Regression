@@ -3,7 +3,7 @@
 
 | Layer      | Units | Activation |
 |------------|-------|------------|
-| Input      | *n*   | -          |
+| Input      | *12*   | -          |
 | Linear 1   | 64    | PReLU      |
 | Linear 2   | 32    | PReLU      |
 | Output     | 1     | -          |
